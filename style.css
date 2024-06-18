@@ -58,7 +58,7 @@ text-decoration: none;
 
 }
 
-.botao-secundario{
+.botão-secundario{
 background-color: transparent;
 border: 2px solid;
 
@@ -98,7 +98,7 @@ margin-bottom: 1em;
 
 .secundario-imagem{
 
-width: 50%;
+width: 80%;
 
 }
 
@@ -106,7 +106,7 @@ width: 50%;
 
 font-weight: 700;
 font-size: 48px;
-color: var(--branco-principal) ;
+color: var(--branco-principal);
 margin-bottom: 0.1em;
 
 }
@@ -121,4 +121,16 @@ margin-bottom: 0.1em;
 
     align-items: center;
     margin: 0 10em;
+}
+
+.secundario-botão{
+
+display: inline-block;
+margin-top: 1em;
+}
+
+.containe-descrição{
+
+padding: 2em;
+
 }
